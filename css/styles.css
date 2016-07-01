@@ -1358,3 +1358,7 @@ Waypoints
   font-size: 14px;
   padding: 18px;
 }
+
+h2 > p {
+  margin: 0;
+}
