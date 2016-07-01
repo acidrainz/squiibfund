@@ -1345,11 +1345,16 @@ Waypoints
 }
 
 .steps-count {
-  margin-bottom: 30px;
+  margin: 30px 0;
 }
 
 .contact-form {
   float: none;
   text-align: center;
   margin: 0 auto;
+}
+
+.mashgraph-learn {
+  font-size: 14px;
+  padding: 18px;
 }
